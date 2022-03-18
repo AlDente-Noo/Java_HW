@@ -1,0 +1,234 @@
+2022-03-17 13:53:31.896 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 13:53:31.896 [main] INFO  com.company.Main -  to 11
+2022-03-17 13:53:31.897 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 13:53:31.897 [main] INFO  com.company.Main -  to 12
+2022-03-17 13:53:31.898 [main] INFO  com.company.Main - Diablo is moving from 11
+2022-03-17 13:53:31.898 [main] INFO  com.company.Main -  to 22
+2022-03-17 13:53:31.898 [main] INFO  com.company.Main - EfreetSultans is moving from 12
+2022-03-17 13:53:31.899 [main] INFO  com.company.Main -  to -1
+2022-03-17 13:53:31.899 [main] INFO  com.company.Main - EfreetSultans is moving from -1
+2022-03-17 13:53:31.899 [main] INFO  com.company.Main -  to -14
+2022-03-17 13:53:31.900 [main] INFO  com.company.Main - Diablo is moving from 22
+2022-03-17 13:53:31.900 [main] INFO  com.company.Main -  to 33
+2022-03-17 13:53:31.900 [main] INFO  com.company.Main - Diablo is moving from 33
+2022-03-17 13:53:31.901 [main] INFO  com.company.Main -  to 44
+2022-03-17 13:53:31.901 [main] INFO  com.company.Main - EfreetSultans is moving from -14
+2022-03-17 13:53:31.901 [main] INFO  com.company.Main -  to -27
+2022-03-17 14:02:19.465 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:02:19.465 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:02:19.466 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:02:19.466 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main - Diablo is moving from 11
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main -  to 22
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main - EfreetSultans is moving from 12
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main -  to -1
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main - Diablo is moving from 22
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main -  to 33
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main - EfreetSultans is moving from -1
+2022-03-17 14:02:19.467 [main] INFO  com.company.Main -  to -14
+2022-03-17 14:04:38.692 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:04:38.693 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:04:38.693 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:04:38.693 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:04:38.694 [main] INFO  com.company.Main - EfreetSultans is moving from 12
+2022-03-17 14:04:38.694 [main] INFO  com.company.Main -  to -1
+2022-03-17 14:04:38.694 [main] INFO  com.company.Main - Diablo is moving from 11
+2022-03-17 14:04:38.694 [main] INFO  com.company.Main -  to 22
+2022-03-17 14:04:38.695 [main] INFO  com.company.Main - Diablo is moving from 22
+2022-03-17 14:04:38.695 [main] INFO  com.company.Main -  to 33
+2022-03-17 14:04:38.695 [main] INFO  com.company.Main - EfreetSultans is moving from -1
+2022-03-17 14:04:38.695 [main] INFO  com.company.Main -  to -14
+2022-03-17 14:04:38.696 [main] INFO  com.company.Main - EfreetSultans is moving from -14
+2022-03-17 14:04:38.696 [main] INFO  com.company.Main -  to -27
+2022-03-17 14:04:38.696 [main] INFO  com.company.Main - Diablo is moving from 33
+2022-03-17 14:04:38.696 [main] INFO  com.company.Main -  to 44
+2022-03-17 14:04:38.697 [main] INFO  com.company.Main - Diablo is moving from 44
+2022-03-17 14:04:38.697 [main] INFO  com.company.Main -  to 55
+2022-03-17 14:04:38.697 [main] INFO  com.company.Main - EfreetSultans is moving from -27
+2022-03-17 14:04:38.697 [main] INFO  com.company.Main -  to -40
+2022-03-17 14:22:16.832 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:22:16.832 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:22:16.832 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:22:16.832 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:23:00.262 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:23:00.262 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:23:00.262 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:23:00.262 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  and now Diablohasonly139HP
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  and now EfreetSultanshasonly26HP
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 20
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  and now Diablohasonly99HP
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  and now EfreetSultanshasonly-50HP
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  and now EfreetSultanshasonly-122HP
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23
+2022-03-17 14:28:13.383 [main] INFO  com.company.Main -  and now Diablohasonly53HP
+2022-03-17 14:30:54.154 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:30:54.154 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:30:54.154 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:30:54.154 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 17
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main -  and now Diablo has  only 139HP 
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 40
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main -  and now EfreetSultans has  only 24HP 
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 17
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main -  and now Diablo has  only 105HP 
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main -  and now Diablo has  only 63HP 
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 20
+2022-03-17 14:30:54.169 [main] INFO  com.company.Main -  and now Diablo has  only 23HP 
+2022-03-17 14:32:57.146 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:32:57.146 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:32:57.146 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:32:57.146 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main -  and now Diablo has  only 139HP 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main -  and now EfreetSultans has  only 28HP 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 16
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main -  and now Diablo has  only 107HP 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 17
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main -  and now Diablo has  only 73HP 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22
+2022-03-17 14:32:57.162 [main] INFO  com.company.Main -  and now Diablo has  only 29HP 
+2022-03-17 13:53:33.992 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 13:53:33.993 [main] INFO  com.company.Main -  to 12
+2022-03-17 13:53:33.993 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 13:53:33.993 [main] INFO  com.company.Main -  to 11
+2022-03-17 13:53:34.041 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23
+2022-03-17 13:53:34.041 [main] INFO  com.company.Main -  and now Diablo has  only 135HP 
+2022-03-17 13:53:34.042 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37
+2022-03-17 13:53:34.042 [main] INFO  com.company.Main -  and now EfreetSultans has  only 30HP 
+2022-03-17 13:53:34.042 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 17
+2022-03-17 13:53:34.042 [main] INFO  com.company.Main -  and now Diablo has  only 101HP 
+2022-03-17 13:53:34.043 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:53:34.043 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:53:34.043 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36
+2022-03-17 13:53:34.043 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:53:34.044 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:53:34.044 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 13:53:34.044 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:53:34.044 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:53:34.045 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36
+2022-03-17 13:53:34.045 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:53:34.045 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:53:34.045 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 13:53:34.045 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21
+2022-03-17 13:53:34.046 [main] INFO  com.company.Main -  and now Diablo has  only 59HP 
+2022-03-17 13:55:25.791 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 13:55:25.791 [main] INFO  com.company.Main -  to 12
+2022-03-17 13:55:25.791 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 13:55:25.792 [main] INFO  com.company.Main -  to 11
+2022-03-17 13:55:25.799 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21
+2022-03-17 13:55:25.800 [main] INFO  com.company.Main -  and now Diablo has  only 139HP 
+2022-03-17 13:55:25.800 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32
+2022-03-17 13:55:25.800 [main] INFO  com.company.Main -  and now EfreetSultans has  only 40HP 
+2022-03-17 13:55:25.801 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 17
+2022-03-17 13:55:25.801 [main] INFO  com.company.Main -  and now Diablo has  only 105HP 
+2022-03-17 13:55:25.801 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 16
+2022-03-17 13:55:25.801 [main] INFO  com.company.Main -  and now Diablo has  only 73HP 
+2022-03-17 13:55:25.801 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34
+2022-03-17 13:55:25.802 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:55:25.802 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:55:25.802 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 13:55:25.802 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22
+2022-03-17 13:55:25.803 [main] INFO  com.company.Main -  and now Diablo has  only 29HP 
+2022-03-17 13:56:46.617 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 13:56:46.618 [main] INFO  com.company.Main -  to 12
+2022-03-17 13:56:46.618 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 13:56:46.619 [main] INFO  com.company.Main -  to 11
+2022-03-17 13:56:46.622 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37
+2022-03-17 13:56:46.622 [main] INFO  com.company.Main -  and now EfreetSultans has  only 30HP 
+2022-03-17 13:56:46.623 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:56:46.623 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:56:46.623 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37
+2022-03-17 13:56:46.624 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:56:46.624 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:56:46.624 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 13:56:46.625 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 20
+2022-03-17 13:56:46.626 [main] INFO  com.company.Main -  and now Diablo has  only 139HP 
+2022-03-17 13:57:41.239 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 13:57:41.240 [main] INFO  com.company.Main -  to 11
+2022-03-17 13:57:41.240 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 13:57:41.240 [main] INFO  com.company.Main -  to 12
+2022-03-17 13:57:41.243 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 17
+2022-03-17 13:57:41.246 [main] INFO  com.company.Main -  and now Diablo has  only 139HP 
+2022-03-17 13:57:41.246 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38
+2022-03-17 13:57:41.247 [main] INFO  com.company.Main -  and now EfreetSultans has  only 28HP 
+2022-03-17 13:57:41.247 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 24
+2022-03-17 13:57:41.247 [main] INFO  com.company.Main -  and now Diablo has  only 91HP 
+2022-03-17 13:57:41.248 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:57:41.248 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:57:41.248 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37
+2022-03-17 13:57:41.248 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:57:41.249 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:57:41.249 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 13:57:41.251 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:57:41.251 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:57:41.254 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36
+2022-03-17 13:57:41.255 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:57:41.255 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:57:41.256 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 13:57:41.256 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23
+2022-03-17 13:57:41.256 [main] INFO  com.company.Main -  and now Diablo has  only 45HP 
+2022-03-17 13:58:14.216 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 13:58:14.217 [main] INFO  com.company.Main -  to 11
+2022-03-17 13:58:14.217 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 13:58:14.218 [main] INFO  com.company.Main -  to 12
+2022-03-17 13:58:14.221 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22
+2022-03-17 13:58:14.221 [main] INFO  com.company.Main -  and now Diablo has  only 137HP 
+2022-03-17 13:58:14.221 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33
+2022-03-17 13:58:14.221 [main] INFO  com.company.Main -  and now EfreetSultans has  only 38HP 
+2022-03-17 13:58:14.222 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 16
+2022-03-17 13:58:14.222 [main] INFO  com.company.Main -  and now Diablo has  only 105HP 
+2022-03-17 13:58:14.222 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 24
+2022-03-17 13:58:14.222 [main] INFO  com.company.Main -  and now Diablo has  only 57HP 
+2022-03-17 13:58:14.222 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37
+2022-03-17 13:58:14.223 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 13:58:14.223 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 13:58:14.223 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 13:58:14.223 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19
+2022-03-17 13:58:14.223 [main] INFO  com.company.Main -  and now Diablo has  only 19HP 
+2022-03-17 14:00:06.607 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:00:06.608 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:00:06.608 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:00:06.608 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:00:06.612 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 35
+2022-03-17 14:00:06.612 [main] INFO  com.company.Main -  and now EfreetSultans has  only 34HP 
+2022-03-17 14:00:06.612 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 14:00:06.613 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 14:00:06.613 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 35
+2022-03-17 14:00:06.613 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 14:00:06.613 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 14:00:06.613 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 14:00:06.613 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19
+2022-03-17 14:00:06.614 [main] INFO  com.company.Main -  and now Diablo has  only 139HP 
+2022-03-17 14:00:54.790 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-17 14:00:54.791 [main] INFO  com.company.Main -  to 11
+2022-03-17 14:00:54.791 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-17 14:00:54.791 [main] INFO  com.company.Main -  to 12
+2022-03-17 14:00:54.794 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 35
+2022-03-17 14:00:54.795 [main] INFO  com.company.Main -  and now EfreetSultans has  only 34HP 
+2022-03-17 14:00:54.795 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 14:00:54.795 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 14:00:54.795 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34
+2022-03-17 14:00:54.795 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-17 14:00:54.796 [main] INFO  com.company.Main - Diablo wins 
+2022-03-17 14:00:54.796 [main] INFO  com.company.Main -  and now EfreetSultans has  only 0HP 
+2022-03-17 14:00:54.796 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22
+2022-03-17 14:00:54.796 [main] INFO  com.company.Main -  and now Diablo has  only 137HP 

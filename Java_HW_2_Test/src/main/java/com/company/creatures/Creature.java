@@ -1,12 +1,11 @@
 package com.company.creatures;
-
 import com.company.Coordinate;
 import com.company.abilities.Ability;
 import com.company.interfaces.attackable;
 import com.company.interfaces.damagable;
 import com.company.interfaces.damaging;
 import com.company.interfaces.movable;
-
+import com.company.*;
 abstract public class Creature implements movable, attackable, damagable, damaging {
     private int attackRange;
     private int[] damageBounds;
@@ -19,7 +18,6 @@ abstract public class Creature implements movable, attackable, damagable, damagi
     private boolean canAttack;
     private boolean canMove;
     private boolean hasAbility = true;
-
 
     private String site;
     public Creature(int attackRange, int[] damageBounds,
@@ -35,27 +33,48 @@ abstract public class Creature implements movable, attackable, damagable, damagi
     }
     @Override
     public void move() {
-        if (site.equals("RIGHT_SITE"))
+        Main.battlelog.info(this.getClass().getSimpleName() + " is moving from "
+        + this.getCoord().getX());
+        if (site.equals(BattleField.RIGHT_SIZE_FLAG))
             this.setCoord(coord.getX()-moveSpeed, coord.getY());
         else
             this.setCoord(coord.getX()+moveSpeed, coord.getY());
+       Main.battlelog.info(" to " + this.getCoord().getX());
     }
     @Override
     public void attack (){
+        if (hitPoints <= 0)
+            return;
         int resultDamage = (int)(Math.random() *
                 ((damageBounds[1] - damageBounds[0]) +1)) + damageBounds[0];
+        Main.battlelog.info(this.getClass().getSimpleName() +
+                " is attacking " + this.curntEnemy.getClass().getSimpleName()
+                + " and deals " + resultDamage + " damage ");
         damage(resultDamage,curntEnemy);
-        curntEnemy.getDamage(resultDamage);
+        if (curntEnemy.getHitPoints() > 0)
+        Main.battlelog.info(" and now " + this.curntEnemy.getClass().getSimpleName()
+                + " has only "
+                + + this.curntEnemy.getHitPoints() + " HP ");
     }
 
     @Override
     public void getDamage(int damage) {
+        Main.battlelog.info(this.getClass().getSimpleName() + " has " +
+                this.hitPoints + " HP and " + this.getArmor() + " armor ");
         if (armor <= damage) {
             setHitPoints(hitPoints + armor - damage);
             setArmor(0);
         }
         else {
-            setArmor(damage - armor);
+            setArmor(armor - damage );
+            Main.battlelog.info(this.getClass().getSimpleName() + " is getting 0 damage, but loosing  "
+                    + damage +
+                     " armor ");
+        }
+        if (hitPoints <= 0) {
+            Main.battlelog.info(this.getClass().getSimpleName() + " is dying ");
+            setHitPoints(0);
+            Main.battlelog.info(curntEnemy.getClass().getSimpleName() + " wins ");
         }
     }
 

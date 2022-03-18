@@ -1,0 +1,820 @@
+2022-03-18 00:57:43.495 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 00:57:43.496 [main] INFO  com.company.Main -  to 12
+2022-03-18 00:57:43.496 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 00:57:43.496 [main] INFO  com.company.Main -  to 11
+2022-03-18 00:57:43.499 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 00:57:43.500 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  19 armor 
+2022-03-18 00:57:43.506 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19damage
+2022-03-18 00:57:43.506 [main] INFO  com.company.Main - Diablo has 160 and -2 armor 
+2022-03-18 00:57:43.507 [main] INFO  com.company.Main -  and now Diablo has srat only 139HP 
+2022-03-18 00:57:43.507 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 00:57:43.509 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32damage
+2022-03-18 00:57:43.510 [main] INFO  com.company.Main - EfreetSultans has 72 and 0 armor 
+2022-03-18 00:57:43.510 [main] INFO  com.company.Main -  and now EfreetSultans has srat only 40HP 
+2022-03-18 00:57:43.511 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 00:57:43.511 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23damage
+2022-03-18 00:57:43.511 [main] INFO  com.company.Main - Diablo has 116 and 0 armor 
+2022-03-18 00:57:43.512 [main] INFO  com.company.Main -  and now Diablo has srat only 93HP 
+2022-03-18 00:57:43.512 [main] INFO  com.company.Main - EfreetSultans has 40 and 0 armor 
+2022-03-18 00:57:43.514 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34damage
+2022-03-18 00:57:43.514 [main] INFO  com.company.Main - EfreetSultans has 6 and 0 armor 
+2022-03-18 00:57:43.514 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 00:57:43.516 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 00:57:43.522 [main] INFO  com.company.Main -  and now EfreetSultans has srat only 0HP 
+2022-03-18 00:57:43.523 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 00:57:43.523 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 00:57:43.524 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 00:57:43.524 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34damage
+2022-03-18 00:57:43.524 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 00:57:43.525 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 00:57:43.525 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 00:57:43.526 [main] INFO  com.company.Main -  and now EfreetSultans has srat only 0HP 
+2022-03-18 00:57:43.527 [main] INFO  com.company.Main - Diablo has 93 and 0 armor 
+2022-03-18 00:57:43.527 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22damage
+2022-03-18 00:57:43.528 [main] INFO  com.company.Main - Diablo has 71 and 0 armor 
+2022-03-18 00:57:43.528 [main] INFO  com.company.Main -  and now Diablo has srat only 49HP 
+2022-03-18 01:17:13.598 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 01:17:13.599 [main] INFO  com.company.Main -  to 11
+2022-03-18 01:17:13.599 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 01:17:13.600 [main] INFO  com.company.Main -  to 12
+2022-03-18 01:17:13.603 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 01:17:13.606 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 40damage
+2022-03-18 01:17:13.607 [main] INFO  com.company.Main - EfreetSultans has 64 and 0 armor 
+2022-03-18 01:17:13.607 [main] INFO  com.company.Main -  and now EfreetSultans has srat only 24HP 
+2022-03-18 01:17:13.608 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 01:17:13.608 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  18 armor 
+2022-03-18 01:17:13.608 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18damage
+2022-03-18 01:17:13.609 [main] INFO  com.company.Main - Diablo has 160 and -3 armor 
+2022-03-18 01:17:13.609 [main] INFO  com.company.Main -  and now Diablo has srat only 139HP 
+2022-03-18 01:17:13.609 [main] INFO  com.company.Main - EfreetSultans has 24 and 0 armor 
+2022-03-18 01:17:13.609 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 01:17:13.610 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 01:17:13.610 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36damage
+2022-03-18 01:17:13.610 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 01:17:13.610 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 01:17:13.610 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 01:17:13.611 [main] INFO  com.company.Main -  and now EfreetSultans has srat only 0HP 
+2022-03-18 01:17:13.611 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 01:17:13.611 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 24damage
+2022-03-18 01:17:13.611 [main] INFO  com.company.Main - Diablo has 115 and 0 armor 
+2022-03-18 01:17:13.612 [main] INFO  com.company.Main -  and now Diablo has srat only 91HP 
+2022-03-18 01:19:32.802 [main] INFO  com.company.Main - 
+2022-03-18 01:19:32.803 [main] INFO  com.company.Main - TURN
+2022-03-18 01:19:32.803 [main] INFO  com.company.Main - 
+2022-03-18 01:19:32.805 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 01:19:32.806 [main] INFO  com.company.Main -  to 12
+2022-03-18 01:19:32.806 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 01:19:32.806 [main] INFO  com.company.Main -  to 11
+2022-03-18 01:19:32.806 [main] INFO  com.company.Main - 
+2022-03-18 01:19:32.807 [main] INFO  com.company.Main - TURN
+2022-03-18 01:19:32.807 [main] INFO  com.company.Main - 
+2022-03-18 01:19:32.810 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 01:19:32.813 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34damage
+2022-03-18 01:19:32.814 [main] INFO  com.company.Main - EfreetSultans has 70 and 0 armor 
+2022-03-18 01:19:32.814 [main] INFO  com.company.Main -  and now EfreetSultans has srat only 36HP 
+2022-03-18 01:19:32.814 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 01:19:32.815 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21damage
+2022-03-18 01:19:32.815 [main] INFO  com.company.Main - Diablo has 160 and 0 armor 
+2022-03-18 01:19:32.815 [main] INFO  com.company.Main -  and now Diablo has srat only 139HP 
+2022-03-18 01:19:32.815 [main] INFO  com.company.Main - 
+2022-03-18 01:19:32.816 [main] INFO  com.company.Main - TURN
+2022-03-18 01:19:32.816 [main] INFO  com.company.Main - 
+2022-03-18 01:19:32.816 [main] INFO  com.company.Main - EfreetSultans has 36 and 0 armor 
+2022-03-18 01:19:32.816 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34damage
+2022-03-18 01:19:32.817 [main] INFO  com.company.Main - EfreetSultans has 2 and 0 armor 
+2022-03-18 01:19:32.817 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 01:19:32.817 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 01:19:32.817 [main] INFO  com.company.Main -  and now EfreetSultans has srat only 0HP 
+2022-03-18 01:19:32.817 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 01:19:32.818 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21damage
+2022-03-18 01:19:32.818 [main] INFO  com.company.Main - Diablo has 118 and 0 armor 
+2022-03-18 01:19:32.818 [main] INFO  com.company.Main -  and now Diablo has srat only 97HP 
+2022-03-18 01:25:16.183 [main] INFO  com.company.Main - 
+2022-03-18 01:25:16.184 [main] INFO  com.company.Main - TURN 01
+2022-03-18 01:25:16.184 [main] INFO  com.company.Main - 
+2022-03-18 01:25:16.187 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 01:25:16.187 [main] INFO  com.company.Main -  to 12
+2022-03-18 01:25:16.188 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 01:25:16.188 [main] INFO  com.company.Main -  to 11
+2022-03-18 01:25:16.188 [main] INFO  com.company.Main - 
+2022-03-18 01:25:16.188 [main] INFO  com.company.Main - TURN 01
+2022-03-18 01:25:16.188 [main] INFO  com.company.Main - 
+2022-03-18 01:25:16.191 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 01:25:16.194 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 40 damage 
+2022-03-18 01:25:16.194 [main] INFO  com.company.Main - EfreetSultans has 64 and 0 armor 
+2022-03-18 01:25:16.195 [main] INFO  com.company.Main -  and now EfreetSultans has only 24HP 
+2022-03-18 01:25:16.195 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 01:25:16.195 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  16 armor 
+2022-03-18 01:25:16.195 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 16 damage 
+2022-03-18 01:25:16.196 [main] INFO  com.company.Main - Diablo has 160 and -5 armor 
+2022-03-18 01:25:16.196 [main] INFO  com.company.Main -  and now Diablo has only 139HP 
+2022-03-18 01:25:16.196 [main] INFO  com.company.Main - 
+2022-03-18 01:25:16.196 [main] INFO  com.company.Main - TURN 01
+2022-03-18 01:25:16.196 [main] INFO  com.company.Main - 
+2022-03-18 01:25:16.196 [main] INFO  com.company.Main - EfreetSultans has 24 and 0 armor 
+2022-03-18 01:25:16.197 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 01:25:16.197 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 01:25:16.197 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38 damage 
+2022-03-18 01:25:16.197 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 01:25:16.198 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 01:25:16.198 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 01:25:16.198 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 01:25:16.199 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 01:25:16.199 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 01:25:16.204 [main] INFO  com.company.Main - Diablo has 121 and 0 armor 
+2022-03-18 01:25:16.204 [main] INFO  com.company.Main -  and now Diablo has only 103HP 
+2022-03-18 01:25:48.969 [main] INFO  com.company.Main - 
+2022-03-18 01:25:48.970 [main] INFO  com.company.Main - TURN 1
+2022-03-18 01:25:48.970 [main] INFO  com.company.Main - 
+2022-03-18 01:25:48.972 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 01:25:48.973 [main] INFO  com.company.Main -  to 11
+2022-03-18 01:25:48.973 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 01:25:48.973 [main] INFO  com.company.Main -  to 12
+2022-03-18 01:25:48.973 [main] INFO  com.company.Main - 
+2022-03-18 01:25:48.973 [main] INFO  com.company.Main - TURN 1
+2022-03-18 01:25:48.974 [main] INFO  com.company.Main - 
+2022-03-18 01:25:48.976 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 01:25:48.979 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32 damage 
+2022-03-18 01:25:48.980 [main] INFO  com.company.Main - EfreetSultans has 72 and 0 armor 
+2022-03-18 01:25:48.980 [main] INFO  com.company.Main -  and now EfreetSultans has only 40HP 
+2022-03-18 01:25:48.980 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 01:25:48.981 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23 damage 
+2022-03-18 01:25:48.981 [main] INFO  com.company.Main - Diablo has 158 and 0 armor 
+2022-03-18 01:25:48.981 [main] INFO  com.company.Main -  and now Diablo has only 135HP 
+2022-03-18 01:25:48.981 [main] INFO  com.company.Main - 
+2022-03-18 01:25:48.981 [main] INFO  com.company.Main - TURN 1
+2022-03-18 01:25:48.982 [main] INFO  com.company.Main - 
+2022-03-18 01:25:48.982 [main] INFO  com.company.Main - EfreetSultans has 40 and 0 armor 
+2022-03-18 01:25:48.983 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34 damage 
+2022-03-18 01:25:48.983 [main] INFO  com.company.Main - EfreetSultans has 6 and 0 armor 
+2022-03-18 01:25:48.983 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 01:25:48.983 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 01:25:48.984 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 01:25:48.984 [main] INFO  com.company.Main - Diablo has 135 and 0 armor 
+2022-03-18 01:25:48.984 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21 damage 
+2022-03-18 01:25:48.984 [main] INFO  com.company.Main - Diablo has 114 and 0 armor 
+2022-03-18 01:25:48.985 [main] INFO  com.company.Main -  and now Diablo has only 93HP 
+2022-03-18 15:36:37.890 [main] INFO  com.company.Main - 
+2022-03-18 15:36:37.891 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:36:37.892 [main] INFO  com.company.Main - 
+2022-03-18 15:36:37.894 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:36:37.894 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:36:37.894 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:36:37.894 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:36:37.895 [main] INFO  com.company.Main - 
+2022-03-18 15:36:37.895 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:36:37.895 [main] INFO  com.company.Main - 
+2022-03-18 15:36:37.898 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 15:36:37.901 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 35 damage 
+2022-03-18 15:36:37.901 [main] INFO  com.company.Main - EfreetSultans has 69 and 0 armor 
+2022-03-18 15:36:37.902 [main] INFO  com.company.Main -  and now EfreetSultans has only 34HP 
+2022-03-18 15:36:37.902 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 15:36:37.902 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22 damage 
+2022-03-18 15:36:37.902 [main] INFO  com.company.Main - Diablo has 159 and 0 armor 
+2022-03-18 15:36:37.902 [main] INFO  com.company.Main -  and now Diablo has only 137HP 
+2022-03-18 15:36:37.902 [main] INFO  com.company.Main - 
+2022-03-18 15:36:37.903 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:36:37.903 [main] INFO  com.company.Main - 
+2022-03-18 15:36:37.903 [main] INFO  com.company.Main - EfreetSultans has 34 and 0 armor 
+2022-03-18 15:36:37.903 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:36:37.904 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:36:37.904 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38 damage 
+2022-03-18 15:36:37.904 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 15:36:37.904 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:36:37.904 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:36:37.904 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 15:36:37.905 [main] INFO  com.company.Main - Diablo has 137 and 0 armor 
+2022-03-18 15:36:37.905 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 15:36:37.906 [main] INFO  com.company.Main - Diablo has 119 and 0 armor 
+2022-03-18 15:36:37.906 [main] INFO  com.company.Main -  and now Diablo has only 101HP 
+2022-03-18 15:37:22.475 [main] INFO  com.company.Main - 
+2022-03-18 15:37:22.476 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:37:22.476 [main] INFO  com.company.Main - 
+2022-03-18 15:37:22.478 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:37:22.479 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:37:22.479 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:37:22.479 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:37:22.479 [main] INFO  com.company.Main - 
+2022-03-18 15:37:22.479 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:37:22.480 [main] INFO  com.company.Main - 
+2022-03-18 15:37:22.482 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 15:37:22.486 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 40 damage 
+2022-03-18 15:37:22.486 [main] INFO  com.company.Main - EfreetSultans has 64 and 0 armor 
+2022-03-18 15:37:22.487 [main] INFO  com.company.Main -  and now EfreetSultans has only 24HP 
+2022-03-18 15:37:22.487 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 15:37:22.487 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  18 armor 
+2022-03-18 15:37:22.487 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 15:37:22.487 [main] INFO  com.company.Main - Diablo has 160 and -3 armor 
+2022-03-18 15:37:22.488 [main] INFO  com.company.Main -  and now Diablo has only 139HP 
+2022-03-18 15:37:22.488 [main] INFO  com.company.Main - 
+2022-03-18 15:37:22.488 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:37:22.488 [main] INFO  com.company.Main - 
+2022-03-18 15:37:22.489 [main] INFO  com.company.Main - EfreetSultans has 24 and 0 armor 
+2022-03-18 15:37:22.489 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:37:22.489 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:37:22.489 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34 damage 
+2022-03-18 15:37:22.490 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 15:37:22.490 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:37:22.490 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:37:22.491 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 15:37:22.491 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 15:37:22.491 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22 damage 
+2022-03-18 15:37:22.492 [main] INFO  com.company.Main - Diablo has 117 and 0 armor 
+2022-03-18 15:37:22.492 [main] INFO  com.company.Main -  and now Diablo has only 95HP 
+2022-03-18 15:49:38.799 [main] INFO  com.company.Main - 
+2022-03-18 15:49:38.799 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:49:38.799 [main] INFO  com.company.Main - 
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main - 
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main - 
+2022-03-18 15:49:38.815 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 35 damage 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - EfreetSultans has 69 and 0 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main -  and now EfreetSultans has only 34HP 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21 damage 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo has 160 and 0 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main -  and now Diablo has only 139HP 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - EfreetSultans has 34 and 0 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38 damage 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 24 damage 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main - Diablo has 115 and 0 armor 
+2022-03-18 15:49:38.821 [main] INFO  com.company.Main -  and now Diablo has only 91HP 
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - 
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - 
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - 
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main - 
+2022-03-18 15:50:38.344 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32 damage 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - EfreetSultans has 72 and 0 armor 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main -  and now EfreetSultans has only 40HP 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  20 armor 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 20 damage 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - Diablo has 160 and -1 armor 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main -  and now Diablo has only 139HP 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - EfreetSultans has 40 and 0 armor 
+2022-03-18 15:50:38.360 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main - EfreetSultans has 7 and 0 armor 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main - Diablo has 121 and 0 armor 
+2022-03-18 15:50:38.367 [main] INFO  com.company.Main -  and now Diablo has only 103HP 
+2022-03-18 15:51:01.552 [main] INFO  com.company.Main - 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans has 65 and 0 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  and now EfreetSultans has only 26HP 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21 damage 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo has 160 and 0 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  and now Diablo has only 139HP 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans has 26 and 0 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo has 139 and 0 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 24 damage 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main - Diablo has 115 and 0 armor 
+2022-03-18 15:51:01.568 [main] INFO  com.company.Main -  and now Diablo has only 91HP 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36 damage 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans has 68 and 0 armor 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  and now EfreetSultans has only 32HP 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 24 damage 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - Diablo has 157 and 0 armor 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  and now Diablo has only 133HP 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans has 32 and 0 armor 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 40 damage 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans has 0 and 0 armor 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:51:40.559 [main] INFO  com.company.Main -  and now EfreetSultans has only 0HP 
+2022-03-18 15:51:40.575 [main] INFO  com.company.Main - Diablo has 133 and 0 armor 
+2022-03-18 15:51:40.575 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19 damage 
+2022-03-18 15:51:40.575 [main] INFO  com.company.Main - Diablo has 114 and 0 armor 
+2022-03-18 15:51:40.575 [main] INFO  com.company.Main -  and now Diablo has only 95HP 
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:57:53.883 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  and now EfreetSultans has only 71 HP 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  18 armor 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  and now Diablo has only 160 HP 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37 damage 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - EfreetSultans has 71 and 0 armor 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  and now EfreetSultans has only 34 HP 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 20 damage 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - Diablo has 160 and -3 armor 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  and now Diablo has only 137 HP 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - TURN 4
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38 damage 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - EfreetSultans has 34 and 0 armor 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  and now EfreetSultans has only 0 HP 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 24 damage 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main - Diablo has 137 and 0 armor 
+2022-03-18 15:57:53.899 [main] INFO  com.company.Main -  and now Diablo has only 113 HP 
+2022-03-18 16:03:13.436 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.437 [main] INFO  com.company.Main - TURN 1
+2022-03-18 16:03:13.437 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.437 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:03:13.439 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 16:03:13.440 [main] INFO  com.company.Main -  to 12
+2022-03-18 16:03:13.440 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 16:03:13.440 [main] INFO  com.company.Main -  to 11
+2022-03-18 16:03:13.440 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.440 [main] INFO  com.company.Main - TURN 2
+2022-03-18 16:03:13.441 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.441 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:03:13.444 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 16:03:13.449 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 16:03:13.450 [main] INFO  com.company.Main -  and now EfreetSultans has only 65 HP 
+2022-03-18 16:03:13.450 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19 damage 
+2022-03-18 16:03:13.451 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 16:03:13.451 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  19 armor 
+2022-03-18 16:03:13.451 [main] INFO  com.company.Main -  and now Diablo has only 160 HP 
+2022-03-18 16:03:13.451 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.452 [main] INFO  com.company.Main - TURN 3
+2022-03-18 16:03:13.452 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.452 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:03:13.452 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32 damage 
+2022-03-18 16:03:13.453 [main] INFO  com.company.Main - EfreetSultans has 65 and 0 armor 
+2022-03-18 16:03:13.453 [main] INFO  com.company.Main -  and now EfreetSultans has only 33 HP 
+2022-03-18 16:03:13.453 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19 damage 
+2022-03-18 16:03:13.453 [main] INFO  com.company.Main - Diablo has 160 and 2 armor 
+2022-03-18 16:03:13.453 [main] INFO  com.company.Main -  and now Diablo has only 143 HP 
+2022-03-18 16:03:13.454 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.454 [main] INFO  com.company.Main - TURN 4
+2022-03-18 16:03:13.454 [main] INFO  com.company.Main - 
+2022-03-18 16:03:13.455 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:03:13.455 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 16:03:13.455 [main] INFO  com.company.Main - EfreetSultans has 33 and 0 armor 
+2022-03-18 16:03:13.455 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 16:03:13.456 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 16:03:13.456 [main] INFO  com.company.Main -  and now EfreetSultans has only 0 HP 
+2022-03-18 16:03:13.456 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 16:03:13.456 [main] INFO  com.company.Main - Diablo has 143 and 0 armor 
+2022-03-18 16:03:13.457 [main] INFO  com.company.Main -  and now Diablo has only 125 HP 
+2022-03-18 16:10:04.202 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.203 [main] INFO  com.company.Main - TURN 1
+2022-03-18 16:10:04.203 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.203 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:10:04.206 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 16:10:04.206 [main] INFO  com.company.Main -  to 11
+2022-03-18 16:10:04.206 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 16:10:04.206 [main] INFO  com.company.Main -  to 12
+2022-03-18 16:10:04.206 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.206 [main] INFO  com.company.Main - TURN 2
+2022-03-18 16:10:04.206 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.207 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:10:04.210 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 16:10:04.213 [main] INFO  com.company.Main - EfreetSultans has 90 and 14 armor 
+2022-03-18 16:10:04.213 [main] INFO  com.company.Main -  and now EfreetSultans has only 71 HP 
+2022-03-18 16:10:04.213 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 16:10:04.213 [main] INFO  com.company.Main - Diablo has 160 and 21 armor 
+2022-03-18 16:10:04.214 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  18 armor 
+2022-03-18 16:10:04.214 [main] INFO  com.company.Main -  and now Diablo has only 160 HP 
+2022-03-18 16:10:04.214 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.214 [main] INFO  com.company.Main - TURN 3
+2022-03-18 16:10:04.215 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.216 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:10:04.216 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 16:10:04.216 [main] INFO  com.company.Main - EfreetSultans has 71 and 0 armor 
+2022-03-18 16:10:04.216 [main] INFO  com.company.Main -  and now EfreetSultans has only 32 HP 
+2022-03-18 16:10:04.217 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23 damage 
+2022-03-18 16:10:04.217 [main] INFO  com.company.Main - Diablo has 160 and 3 armor 
+2022-03-18 16:10:04.217 [main] INFO  com.company.Main -  and now Diablo has only 140 HP 
+2022-03-18 16:10:04.218 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.218 [main] INFO  com.company.Main - TURN 4
+2022-03-18 16:10:04.219 [main] INFO  com.company.Main - 
+2022-03-18 16:10:04.219 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:10:04.220 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 38 damage 
+2022-03-18 16:10:04.220 [main] INFO  com.company.Main - EfreetSultans has 32 and 0 armor 
+2022-03-18 16:10:04.220 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 16:10:04.221 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 16:10:04.221 [main] INFO  com.company.Main -  and now EfreetSultans has only 0 HP 
+2022-03-18 16:13:41.344 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.346 [main] INFO  com.company.Main - TURN 1
+2022-03-18 16:13:41.346 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.346 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:13:41.349 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 16:13:41.349 [main] INFO  com.company.Main -  to 11
+2022-03-18 16:13:41.350 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 16:13:41.350 [main] INFO  com.company.Main -  to 12
+2022-03-18 16:13:41.350 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.350 [main] INFO  com.company.Main - TURN 2
+2022-03-18 16:13:41.350 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.351 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:13:41.354 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 16:13:41.356 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 14 armor 
+2022-03-18 16:13:41.357 [main] INFO  com.company.Main -  and now EfreetSultans has only 65 HP 
+2022-03-18 16:13:41.357 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 16:13:41.358 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 16:13:41.358 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  18 armor 
+2022-03-18 16:13:41.358 [main] INFO  com.company.Main -  and now Diablo has only 160 HP 
+2022-03-18 16:13:41.358 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.358 [main] INFO  com.company.Main - TURN 3
+2022-03-18 16:13:41.359 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.359 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:13:41.359 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36 damage 
+2022-03-18 16:13:41.360 [main] INFO  com.company.Main - EfreetSultans has 65 HP and 0 armor 
+2022-03-18 16:13:41.360 [main] INFO  com.company.Main -  and now EfreetSultans has only 29 HP 
+2022-03-18 16:13:41.360 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21 damage 
+2022-03-18 16:13:41.360 [main] INFO  com.company.Main - Diablo has 160 HP and 3 armor 
+2022-03-18 16:13:41.361 [main] INFO  com.company.Main -  and now Diablo has only 142 HP 
+2022-03-18 16:13:41.361 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.361 [main] INFO  com.company.Main - TURN 4
+2022-03-18 16:13:41.361 [main] INFO  com.company.Main - 
+2022-03-18 16:13:41.362 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:13:41.362 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 16:13:41.362 [main] INFO  com.company.Main - EfreetSultans has 29 HP and 0 armor 
+2022-03-18 16:13:41.362 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 16:13:41.363 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - TURN 1
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main -  to 12
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main -  to 11
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - TURN 2
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.916 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  14 armor 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - TURN 3
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 35 damage 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 0 armor 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main -  and now EfreetSultans has only 55 HP 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21 damage 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo has 160 HP and 7 armor 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main -  and now Diablo has only 146 HP 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - TURN 4
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - EfreetSultans has 55 HP and 0 armor 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main -  and now EfreetSultans has only 22 HP 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22 damage 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo has 146 HP and 0 armor 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main -  and now Diablo has only 124 HP 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - TURN 5
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 40 damage 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - EfreetSultans has 22 HP and 0 armor 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 16:21:27.947 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - TURN 1
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main -  to 12
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main -  to 11
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - TURN 2
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.977 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:22:33.993 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 16:22:33.993 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  14 armor 
+2022-03-18 16:22:33.993 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.993 [main] INFO  com.company.Main - TURN 3
+2022-03-18 16:22:33.993 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.993 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 0 armor 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main -  and now EfreetSultans has only 51 HP 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23 damage 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - Diablo has 160 HP and 7 armor 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main -  and now Diablo has only 144 HP 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - TURN 4
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37 damage 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - EfreetSultans has 51 HP and 0 armor 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main -  and now EfreetSultans has only 14 HP 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 20 damage 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - Diablo has 144 HP and 0 armor 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main -  and now Diablo has only 124 HP 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - TURN 5
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32 damage 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - EfreetSultans has 14 HP and 0 armor 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 16:22:33.999 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 16:25:18.130 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.130 [main] INFO  com.company.Main - TURN 1
+2022-03-18 16:25:18.130 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.130 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  to 12
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  to 11
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - TURN 2
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  14 armor 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - TURN 3
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 0 armor 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  and now EfreetSultans has only 51 HP 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 17 damage 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo has 160 HP and 7 armor 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  and now Diablo has only 150 HP 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - TURN 4
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32 damage 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - EfreetSultans has 51 HP and 0 armor 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  and now EfreetSultans has only 19 HP 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19 damage 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo has 150 HP and 0 armor 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  and now Diablo has only 131 HP 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - TURN 5
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36 damage 
+2022-03-18 16:25:18.145 [main] INFO  com.company.Main - EfreetSultans has 19 HP and 0 armor 
+2022-03-18 16:25:18.161 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 16:25:18.161 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:30:55.017 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.017 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:30:55.017 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.017 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - EfreetSultans gets a stun 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  14 armor 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 40 damage 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 0 armor 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  and now EfreetSultans has only 50 HP 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 19 damage 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - Diablo has 160 HP and 7 armor 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  and now Diablo has only 148 HP 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - TURN 4
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36 damage 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - EfreetSultans has 50 HP and 0 armor 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  and now EfreetSultans has only 14 HP 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 18 damage 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - Diablo has 148 HP and 0 armor 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main -  and now Diablo has only 130 HP 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - TURN 5
+2022-03-18 15:30:55.032 [main] INFO  com.company.Main - 
+2022-03-18 15:30:55.048 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:30:55.048 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34 damage 
+2022-03-18 15:30:55.048 [main] INFO  com.company.Main - EfreetSultans has 14 HP and 0 armor 
+2022-03-18 15:30:55.048 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:30:55.048 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:31:43.368 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:31:43.383 [main] INFO  com.company.Main - EfreetSultans gets a stun 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  14 armor 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 35 damage 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 0 armor 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main -  and now EfreetSultans has only 55 HP 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 23 damage 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo has 160 HP and 7 armor 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main -  and now Diablo has only 144 HP 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - TURN 4
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 39 damage 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - EfreetSultans has 55 HP and 0 armor 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main -  and now EfreetSultans has only 16 HP 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 21 damage 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo has 144 HP and 0 armor 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main -  and now Diablo has only 123 HP 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - TURN 5
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 34 damage 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - EfreetSultans has 16 HP and 0 armor 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:31:43.390 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - 
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - 
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - 
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - 
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - EfreetSultans gets a stun 
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 15:32:18.989 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  14 armor 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 0 armor 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main -  and now EfreetSultans has only 57 HP 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 16 damage 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - Diablo has 160 HP and 7 armor 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main -  and now Diablo has only 151 HP 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - TURN 4
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 36 damage 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - EfreetSultans has 57 HP and 0 armor 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main -  and now EfreetSultans has only 21 HP 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 16 damage 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - Diablo has 151 HP and 0 armor 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main -  and now Diablo has only 135 HP 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - TURN 5
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - EfreetSultans has 21 HP and 0 armor 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:32:19.004 [main] INFO  com.company.Main - Diablo wins 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - TURN 1
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - Diablo is moving from 0
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main -  to 11
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - EfreetSultans is moving from 25
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main -  to 12
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - TURN 2
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main -  flag to act is true
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - EfreetSultans gets a stun 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - Fireball was casted. Deals 20 damage 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - Diablo has 160 HP and 21 armor 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - Diablo is getting 0 damage, but loosing  20 armor 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main -  and now Diablo has only 160 HP 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - TURN 3
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 32 damage 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - EfreetSultans has 90 HP and 0 armor 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main -  and now EfreetSultans has only 58 HP 
+2022-03-18 15:32:40.963 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 20 damage 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - Diablo has 160 HP and 1 armor 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main -  and now Diablo has only 141 HP 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - TURN 4
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 37 damage 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - EfreetSultans has 58 HP and 0 armor 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main -  and now EfreetSultans has only 21 HP 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - EfreetSultans is attacking Diablo and deals 22 damage 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - Diablo has 141 HP and 0 armor 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main -  and now Diablo has only 119 HP 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - TURN 5
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main -  flag to act is false
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - Diablo is attacking EfreetSultans and deals 33 damage 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - EfreetSultans has 21 HP and 0 armor 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - EfreetSultans is dying 
+2022-03-18 15:32:40.979 [main] INFO  com.company.Main - Diablo wins 

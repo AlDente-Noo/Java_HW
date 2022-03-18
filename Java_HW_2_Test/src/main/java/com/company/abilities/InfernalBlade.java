@@ -6,7 +6,7 @@ import com.company.effects.Stun;
 
 public class InfernalBlade extends Ability {
     private static final String INFERNAL_BLADE_ABILITY_NAME = "Infernal Blade";
-    private static final String INFERNAL_BLADE_ABILITY_USING_PHRASE = "FACE YOUR DEMONS! AHHHGR";
+    private static final String INFERNAL_BLADE_ABILITY_USING_PHRASE = "AH. MY FLAME BURNS BRIGHTER";
     private static final String INFERNAL_BLADE_DESCRIPTION = "Is counted as turn. " +
             "Diablo impales enemy with his blade: stuns and totally destroys enemy's armor";
     public InfernalBlade(){
@@ -16,5 +16,7 @@ public class InfernalBlade extends Ability {
     @Override
     public void use(Creature creature){
         getEffect().cast(creature);
+        creature.setArmor(0);
+        System.out.println(getAbilityUsingPhrase());
     }
 }

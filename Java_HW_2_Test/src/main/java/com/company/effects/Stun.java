@@ -1,5 +1,6 @@
 package com.company.effects;
 
+import com.company.Main;
 import com.company.creatures.Creature;
 
 public class Stun extends Effect {
@@ -11,6 +12,7 @@ public class Stun extends Effect {
     public void cast(Creature creature){
         creature.setCanAttack(false);
         creature.setCanMove(false);
+        Main.battlelog.info(creature.getClass().getSimpleName() + " gets a stun ");
     }
     @Override
     public void uncast(Creature creature){
